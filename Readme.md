@@ -1,4 +1,4 @@
-# ESP8266_xScheduleButtonsDemo
+# ESP32 WT32_ETH01 Show Button
 
 This is the modified sketch for the FPP/xScheduler interactive button it uses a ESP32 with a WT32_ETH01 serial to Ethernet Module. This ia a modification of a previous interactive button build reflashed to use MQTT.
 
